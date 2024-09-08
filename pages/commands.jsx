@@ -3,32 +3,32 @@ import Link from "next/link";
 
 export default function Commands() {
 const commands = [
-  "/autoplay",
-  "/back",
-  "/statistic",
-  "/channel",
-  "/clear",
-  "/dj",
-  "/filter",
-  "/help",
-  "/language",
-  "/loop",
-  "/nowplaying",
-  "/pause",
-  "/ping",
-  "/play",
-  "/playlist",
-  "/queue",
-  "/resume",
-  "/save",
-  "/search",
-  "/seek",
-  "/servers",
-  "/shuffle",
-  "/skip",
-  "/stop",
-  "/time",
-  "/volume"
+  "#clear",
+  "#lock",
+  "#unlock",
+  "#bank",
+  "#clear(number)",
+  "#set-name-money",
+  "#time-mute",
+  "#help",
+  "#lovecalc",
+  "#set-daily",
+  "#daily",
+  "#afk",
+  "#bot-info",
+  "#serveruser (usermention)",
+  "#inforole",
+  "#addmoney",
+  "#removemoney",
+  "#demande",
+  "#divorce",
+  "#yes",
+  "#no",
+  "#avatar",
+  "#bot-perms",
+  "#ban-log",
+  "#morpion",
+  "#pendu"
 ];
 
   return (
@@ -42,7 +42,7 @@ const commands = [
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the MusicMaker Bot.
+        You can get information about the commands of the circle protect Bot.
         </p>
 
         <div>
