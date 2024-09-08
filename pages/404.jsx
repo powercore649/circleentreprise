@@ -5,7 +5,6 @@ const UnkownPage = () => {
         'Damn it! This dead-end road.',
         'The Aurors blocked this road, Harry!'
         'oops, circle protect is lost :('
-        'oops, circle protect is lost :('
         'https://discord.gg/empire-auroras-1235157719409885184'
     ];
 
